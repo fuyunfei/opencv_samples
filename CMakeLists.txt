@@ -10,6 +10,8 @@ add_executable( sift ${srcfile}/sift.cpp )
 target_link_libraries( sift ${OpenCV_LIBS} )
 add_executable( tojpg ${srcfile}/tojpg.cpp )
 target_link_libraries( tojpg   ${OpenCV_LIBS} )
+add_executable( mser ${srcfile}/mser.cpp )
+target_link_libraries( mser ${OpenCV_LIBS} )
 
 
 

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="opencv_samples" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\usr\local\share\OpenCV\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="klt">
+         <Option output="/home/sun/Cloud/opencv_samples/bin/klt" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 klt" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="klt/fast">
+         <Option output="/home/sun/Cloud/opencv_samples/bin/klt" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 klt/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="tojpg">
+         <Option output="/home/sun/Cloud/opencv_samples/bin/tojpg" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 tojpg" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="tojpg/fast">
+         <Option output="/home/sun/Cloud/opencv_samples/bin/tojpg" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 tojpg/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="mser">
+         <Option output="/home/sun/Cloud/opencv_samples/bin/mser" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 mser" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="mser/fast">
+         <Option output="/home/sun/Cloud/opencv_samples/bin/mser" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 mser/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="sift">
+         <Option output="/home/sun/Cloud/opencv_samples/bin/sift" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 sift" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="sift/fast">
+         <Option output="/home/sun/Cloud/opencv_samples/bin/sift" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/sun/Cloud/opencv_samples/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 sift/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/sun/Cloud/opencv_samples/bin/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/sun/Cloud/opencv_samples/src/klt.cpp">
+         <Option target="klt"/>
+      </Unit>
+      <Unit filename="/home/sun/Cloud/opencv_samples/src/mser.cpp">
+         <Option target="mser"/>
+      </Unit>
+      <Unit filename="/home/sun/Cloud/opencv_samples/src/sift.cpp">
+         <Option target="sift"/>
+      </Unit>
+      <Unit filename="/home/sun/Cloud/opencv_samples/src/tojpg.cpp">
+         <Option target="tojpg"/>
+      </Unit>
+      <Unit filename="/home/sun/Cloud/opencv_samples/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/sun/Cloud/opencv_samples/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/sun/Cloud/opencv_samples/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/sun/Cloud/opencv_samples/../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/sun/Cloud/opencv_samples/../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

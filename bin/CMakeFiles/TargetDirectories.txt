@@ -1,0 +1,6 @@
+/home/sun/Cloud/opencv_samples/bin/CMakeFiles/edit_cache.dir
+/home/sun/Cloud/opencv_samples/bin/CMakeFiles/rebuild_cache.dir
+/home/sun/Cloud/opencv_samples/bin/CMakeFiles/klt.dir
+/home/sun/Cloud/opencv_samples/bin/CMakeFiles/tojpg.dir
+/home/sun/Cloud/opencv_samples/bin/CMakeFiles/mser.dir
+/home/sun/Cloud/opencv_samples/bin/CMakeFiles/sift.dir
